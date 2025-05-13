@@ -103,3 +103,4 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int'])) {
     // Si no s'envien els paràmetres, mostrar un missatge d'error
     header('Content-Type: text/plain');
     echo 'Falten paràmetres. Has d\'enviar "força", "destresa" i "intel·ligència".\n';
+}
