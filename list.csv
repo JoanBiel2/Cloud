@@ -1,0 +1,257 @@
+Name,Weapon type,Base Hvy,Base Mag,Crit,STR,DEX,INT,FAI,ARC,Passive,Skill,STR,DEX,INT,FAI,ARC,Source
+Rosus' Axe,Axe,425,425,100,C,D,C,,,,Rosus's Summons,18,10,18,,,Liurnia - Black Knife Catacombs
+Stormhawk Axe,Axe,318,318,100,C,D,,,,,Thunderstorm,19,15,,,,Liurnia - Village of the Albinaurics 
+Sacrificial Axe,Axe,286,474,100,B,B,C,C,B,,Ashes of war,16,10,,,,Weeping Peninsula - Deathbird
+Ripple Blade,Axe,283,283,100,,,,,.S,,Wild Strikes,11,11,,,20,Caria Manor - Vendor
+Highland Axe,Axe,277,460,110,B,B,C,C,B,,Ashes of war,12,9,,,,Stormveil Castle
+Battle Axe,Axe,277,460,100,B,B,C,C,B,,Ashes of war,12,8,,,,Roundtable hold
+Icerind Hatchet ,Axe,271,271,100,D,B,,,,Frostbite (65),Hoarfrost Stomp,11,16,,,,Liurnia - Temple Quarter
+Celebrant's Cleaver,Axe,267,444,100,B,B,C,C,B,,Ashes of war,12,8,,,,Altus Plateau - Drop
+Jawbone Axe,Axe,261,464,100,A,B,C,C,B,,Ashes of war,14,8,,,,"Siofra River, Nokron, Eternal City, Liurnia - Drop"
+Iron Cleaver,Axe,253,448,100,A,B,B,C,B,,Ashes of war,15,7,,,,Castle Morne - drop
+Hand Axe,Axe,253,420,100,B,B,C,C,B,,Ashes of war,9,8,,,,Limgrave - Nomadic merchant
+Warped Axe,Axe,250,444,100,.S,B,B,C,B,,Ashes of war,24,8,,,,"Liurnia, Altus Plateau, Leyndell - Drop from Ogre"
+Forked Hatchet,Axe,225,374,100,B,A,B,C,B,Bleed (50),Ashes of war,9,14,,,,Dropped by Imps
+Bloodhound Claws,Claw,211,350,110,B,B,B,C,B,Bleed (60),Ashes of war,10,15,,,,Volcano Manor
+Venomous Fang,Claw,206,342,100,A,B,B,C,B,Poison (72),Ashes of war,9,9,,,,Caelid
+Hookclaws,Claw,188,330,110,B,A,B,C,B,Bleed (60),Ashes of war,8,14,,,,Stormveil Castle
+Raptor Talons,Claw,185,308,110,A,A,B,C,B,Bleed (60),Ashes of war,6,14,,,,Altus Plateau
+Royal Greatsword,Colossal Sword,602,602,100,C,D,C,,,,Wolf´s Assault,26,18,22,,,Ranni's questline
+Starscourge Greatsword,Colossal Sword,519,519,100,B,D,D,,,,Starcaller Cry,38,12,15,,,Radahn (Boss)
+Maliketh's Black Blade,Colossal Sword,511,511,100,B,D,,B,,,Destined Death,34,12,,20,,"Maliketh, The Black Blade (Boss)"
+Troll Knight's Sword,Colossal Sword,499,499,100,C,C,D,,,,Troll's Roar,20,14,18,,,Caria Manor - Troll knight drop
+Godslayer's Greatsword,Colossal Sword,479,479,100,D,B,,C,,,The Queen's Black Flame,20,22,,20,,Caelid - Divine Tower of Caelid
+Ruins Greatsword,Colossal Sword,393,393,100,.S,,D,,,,Wave of Destruction,50,,16,,,Redmane Castle Plaza
+Grafted Blade Greatsword,Colossal Sword,384,384,100,B,D,,,,,Oath of Vengeance,40,14,,,,Weeping Peninsula - Castle Morne
+Troll's Golden Sword,Colossal Sword,352,584,100,B,B,C,C,B,,Ashes of war,29,10,,,,Mt. Gelmir - Erdtree-Grazing-Hill
+Greatsword,Colossal Sword,349,620,100,A,B,C,C,B,,Ashes of war,31,12,,,,Caelid - Wagon
+Zweihander,Colossal Sword,319,530,100,B,B,B,C,B,,Ashes of war,19,11,,,,Weeping Peninsula - Merchant
+Watchdog's Greatsword,Colossal Sword,301,534,100,.S,B,B,C,B,,Ashes of war,30,10,,,,Giants' Mountaintop Catacombs
+Fallingstar Beast Jaw,Colossal Weapon,528,528,100,C,C,D,,,,Gravity Bolt,34,12,20,,,Mt. Gelmir - Boss
+Envoy's Greathorn,Colossal Weapon,487,487,100,C,C,,D,,,Great Oracular Bubble,28,12,,24,,Miquella's Haligtree
+Dragon Greatclaw,Colossal Weapon,485,485,100,C,D,,,,,Endure,30,14,,,,Altus Plateau - Draconic Tree Sentinel
+Troll's Hammer,Colossal Weapon,484,484,100,B,E,,D,,,Troll's Roar,28,8,,10,,Altus Plateau - Old Altus Tunnel
+Staff of the Avatar,Colossal Weapon,454,454,100,A,D,,B,,,Erdtree Slam,34,8,,24,,Underground - Siofra Aqueduct
+Rotten Staff,Colossal Weapon,404,404,100,B,D,,,,Scarlet rot (75),Erdtree Slam,34,8,,,,"Elphael, Brace of the Haligtree - Erdtree Avatar"
+Axe of Godfrey,Colossal Weapon,404,404,100,C,D,,,,,Regal Roar,42,14,,,,Leyndell - Boss
+Watchdog's Staff,Colossal Weapon,404,404,100,C,D,,,,,Sorcery of the Crozier,34,10,,,,Liurnia - Road's End Catacombs
+Duelist Greataxe,Colossal Weapon,385,638,100,B,B,C,D,B,,Ashes of war,30,10,,,,Leyndell - Drop
+Ghiza's Wheel ,Colossal Weapon,382,382,100,C,C,,,,Bleed (70),Spinning Wheel,28,18,,,,Volcano Manor - Invader
+Rotten Greataxe,Colossal Weapon,368,612,100,B,B,C,D,B,Scarlet rot (65),Ashes of war,30,10,,,,Mountaintops of the giants - Ordina
+Golem's Halberd,Colossal Weapon,336,596,100,A,B,C,C,B,,Ashes of war,36,14,,,,Stormveil Castle - drop
+Prelate's Inferno Crozier,Colossal Weapon,332,588,100,A,B,B,C,B,,Ashes of war,45,8,,,,Fort Laiedd
+Giant-Crusher,Colossal Weapon,330,584,100,.S,A,B,B,B,,Ashes of war,60,,,,,Leyndell - Outside
+Great Club,Colossal Weapon,327,580,100,A,B,C,C,B,,Ashes of war,35,,,,,Altus Plateau - Old Altus Tunnel
+Onyx Lord's Greatsword,Curved G.Sword,475,475,100,B,E,B,,,,Onyx Lord's Repulsion,20,16,16,,,Altus Plateau - Sealed Tunnel
+Magma Wyrm's Scalesword,Curved G.Sword,460,460,100,B,D,,B,,,Magma Guillotine,24,15,,18,,Liurnia - Ruin-Strewn Precipice 
+Bloodhound's Fang,Curved G.Sword,345,345,100,C,B,,,,Bleed (55),Bloodhound's Finesse,18,17,,,,Limgrave - Forlon Hound Evergaol
+Beastman's Cleaver,Curved G.Sword,321,534,100,A,B,B,C,B,,Ashes of war,25,14,,,,Crumbling Farum Azula
+Omen Cleaver,Curved G.Sword,319,530,100,B,B,B,B,B,,Ashes of war,19,16,,,,Stormveil Castle - Omen ogre
+Dismounter ,Curved G.Sword,310,514,100,B,B,B,B,B,,Ashes of war,19,16,,,,"Limgrave, etc - Kaiden Sellswords drop"
+Zamor Curved Sword,Curved G.Sword,306,306,100,C,B,,,,Frostbite (65),Zamor Ice Storm,16,18,,,,Mountaintops of the Giants
+Monk's Flameblade,Curved G.Sword,300,498,100,B,B,B,B,B,,Ashes of war,18,18,,,,Mountaintops of the Giants
+Morgott's Cursed Sword,Curved G.Sword,294,294,110,D,B,,,D,Bleed (60),Cursed-Blood Slice,14,35,,,,"Leyndell, Royal Capital"
+Magma Blade,Curved Sword,386,386,100,C,D,,C,,,Magma Shower,9,15,,16,,Mount Gelmir - Vulcano Manor
+Eclipse Shotel,Curved Sword,376,376,100,D,C,,C,,,Death Flare,10,25,,30,,Mountaintops of the giants - Castle Sol
+Wing of Astel,Curved Sword,350,350,100,E,C,B,,,,Nebula,7,17,20,,,Underground - Uhl Palace Ruins
+Nox Flowing Sword,Curved Sword,274,274,100,D,B,,,,,Flowing Form,8,15,,,,"Caelid - Sellia, Town of Sorcery"
+Bandit's Curved Sword,Curved Sword,265,440,100,B,B,B,B,B,,Ashes of war,11,13,,,,Limgrave - Dropped by skeletons
+Grossmesser ,Curved Sword,258,428,100,B,B,B,C,B,,Ashes of war,14,12,,,,
+Mantis Blade,Curved Sword,251,416,100,B,B,B,C,B,,Ashes of war,10,12,,,,
+Falchion ,Curved Sword,244,404,100,A,B,B,B,B,,Ashes of war,9,13,,,,
+Flowing Curved Sword,Curved Sword,244,404,100,B,A,B,C,B,,Ashes of war,9,17,,,,
+Shamshir ,Curved Sword,242,400,100,B,B,B,B,B,,Ashes of war,7,13,,,,Limgrave - Highroad cave
+Beastman's Curved Sword,Curved Sword,237,420,100,A,B,B,C,B,,Ashes of war,13,11,,,,Mountaintops of the giants - Crumbling Farum Azula
+Serpent-God's Curved Sword,Curved Sword,237,420,100,A,B,C,C,B,,Ashes of war,13,9,,,,
+Scimitar ,Curved Sword,237,392,100,B,A,B,C,B,,Ashes of war,7,13,,,,
+Scavenger's Curved Sword,Curved Sword,235,390,100,B,B,B,B,B,Bleed (45),Ashes of war,9,14,,,,
+Shotel ,Curved Sword,216,358,100,B,A,C,C,B,,Ashes of war,9,19,,,,
+Crystal Knife ,Dagger,329,329,100,C,D,B,,,,Quickstep,8,12,9,,,Liurnia - Raya Lucaria Crystal Tunnel
+Black Knife ,Dagger,320,320,110,E,B,,C,,,Blade of Death,8,12,,18,,Altus Plateau - Sainted Hero's Grave
+Glintstone Kris,Dagger,305,305,110,E,C,C,,,,Glintstone Dart,5,12,16,,,Sorceress Sellen Questline
+Ivory Sickle,Dagger,294,294,100,D,C,C,,,,Quickstep,6,11,13,,,Liurnia - Village of the Albinaurics
+Blade of Calling,Dagger,278,278,110,D,C,,B,,,Blade of Gold,6,13,,15,,Forbidden Lands
+Cinquedea ,Dagger,240,240,100,B,D,,,,,Quickstep,10,10,,,,Unobtainable in 1.03
+Wakizashi,Dagger,211,350,100,B,B,B,C,B,Bleed (38),Ashes of war,9,13,,,,Caelid - Gaol Cave
+Misericorde ,Dagger,206,342,140,B,B,C,D,B,,Ashes of war,7,12,,,,Stormveil Castle
+Reduvia ,Dagger,193,193,110,E,C,,,B,Bleed (50),Reduvia Blood Blade,5,13,,,13,Limgrave - Invader
+Scorpion's Stinger,Dagger,193,193,110,D,B,,,,Scarlet rot (50),Repeating Thrust,6,12,,,,Lake of Rot
+Bloodstained Dagger,Dagger,169,300,110,A,B,B,B,B,Bleed (38),Ashes of war,9,12,,,,Weeping peninsula - Drop
+Great Knife,Dagger,169,280,110,A,.S,B,B,A,Bleed (38),Ashes of war,6,12,,,,"Bandit class, Liurnia - Lakeside Crystal Cave"
+Parrying Dagger,Dagger,169,280,110,A,.S,B,B,A,,Ashes of war,5,14,,,,Limgrave - Sold by patches
+Dagger ,Dagger,166,276,130,A,A,B,B,A,,Ashes of war,5,9,,,,Roundtable hold
+Erdsteel Dagger,Dagger,150,248,110,A,A,B,B,A,,Ashes of war,7,12,,14,,Limgrave - Kenneth questchain
+Celebrant's Sickle,Dagger,,,,,,,,,,Rune Gain on Hit,6,11,,,,"Altus Plateau - Dominula, Windmill Village"
+Grafted Dragon,Fist,357,357,100,C,D,,D,,,Bear Witness!,20,14,,16,,Godrick the Grafted (Boss)
+Veteran's Prosthesis,Fist,332,332,100,C,D,,,,,Storm Kick,15,12,,,,Mountaintops of the Giants - Castle Sol
+Clinging Bone ,Fist,254,254,100,E,B,,,C,,Lifesteal,8,22,,,16,Ensha of the Royal Remains
+Star Fist,Fist,220,390,100,A,B,C,C,B,Bleed (45),Ashes of war,12,8,,,,"Leyndell, Royal Capital - Outside"
+Katar ,Fist,218,362,110,B,B,C,C,B,,Ashes of war,8,10,,,,Caelid - Fort Gael
+Iron Ball,Fist,211,374,100,A,B,C,C,B,,Ashes of war,11,8,,,,Liurnia - Blackguard Big Boggart 
+Cipher Pata,Fist,208,208,,,,,A,,,Unblockable Blade,,,,30,,Roundtable Hold - Mad Tongue Alberich
+Spiked Caestus,Fist,204,338,100,A,B,B,B,B,Bleed (45),Ashes of war,8,10,,,,Caelid - Merchant
+Caestus ,Fist,202,334,100,A,B,B,B,B,,Ashes of war,8,8,,,,Gatekeeper Gostoc / Roudtable hold
+Bastard's Stars,Flail,350,350,100,E,C,B,,,,Nebula,8,22,22,,,Lake of rot (Boss)
+Family Heads,Flail,350,350,100,D,B,D,,,,Familial Rancor,8,18,16,,,Altus Plateau - Sage's Cave
+Nightrider Flail,Flail,251,416,100,B,A,B,B,B,Bleed (50),Ashes of war,10,24,,,,Weeping peninsula - Night's cavalry drop
+Flail ,Flail,244,404,100,B,B,B,B,B,Bleed (50),Ashes of war,10,18,,,,
+Chainlink Flail,Flail,228,404,100,A,B,B,B,B,Bleed (50),Ashes of war,18,12,,,,Pumpkin Heads drop
+Treespear,Great Spear,491,491,100,D,C,,D,,,Sacred Order,15,22,,18,,Limgrave - Next to Stormveil Castle
+Siluria's Tree,Great Spear,440,440,100,B,D,,C,,,Siluria's Woe,27,13,,20,,Deeproot Depths - Crucible Knight Siluria
+Vyke's War Spear ,Great Spear,413,413,100,D,B,,C,,Madness (65),Frenzyflame Thrust,16,20,,18,,Liurnia - Church of Inhibition - Invader
+Mohgwyn's Sacred Spear,Great Spear,386,386,100,C,D,,,C,Bleed (73-88),Bloodboon Ritual,24,14,,,27,"Mohg, Lord of Blood (Boss)"
+Lance,Great Spear,277,460,100,A,B,B,B,B,,Ashes of war,20,14,,,,Limgrave - near Deathtouched Catacombs
+Serpent-Hunter,Great Spear,271,271,100,A,E,,,,,Great-Serpent Hunt,,,,,,"Found during fight with Rykard, Lord of Blasphemy"
+Gargoyle's Black Axe,Greataxe,539,539,100,C,E,,D,,,War Cry,24,8,,22,,Mountaintops of the Giants - Black Blade Kindred drop
+Axe of Godrick,Greataxe,347,347,100,C,C,,,,,"I Command Thee, Kneel!",34,22,,,,Godrick (Boss)
+Crescent Moon Axe,Greataxe,331,548,100,B,B,C,C,B,,Ashes of war,25,15,,,,Stormveil castle - Drop
+Longhaft Axe,Greataxe,331,548,100,B,B,C,C,B,,Ashes of war,24,8,,,,Weeping Peninsula - Castle Morne
+Great Omenkiller Cleaver,Greataxe,321,534,100,B,B,C,C,B,Bleed (55),Ashes of war,23,12,,,,Volcanor Manor - Omenkiller drop
+Executioner's Greataxe,Greataxe,319,564,115,A,B,C,C,B,,Ashes of war,34,8,,,,Liurnia - Church of Irith
+Winged Greathorn,Greataxe,318,318,100,C,C,,,,,Soul Stifler,30,20,,,,Nokron - Regal Ancestor Spirit (Boss)
+Rusted Anchor,Greataxe,312,552,100,A,B,C,C,B,,Ashes of war,26,9,,,,Weeping peninsula - Morne Tunnel
+Butchering Knife,Greataxe,303,502,100,B,A,B,C,B,,Ashes of war,16,20,,,,Caelid - Smoldering Church - Invader
+Gargoyle's Great Axe,Greataxe,261,464,100,.S,B,B,B,B,,Ashes of war,24,8,,,,Altus Plateau - Valiant Gargoyle
+Greataxe,Greataxe,,,100,,,,,,,Ashes of war,30,8,,,,Limgrave - Wagon
+Gargoyle's Blackblade,Greatsword,547,547,100,C,D,,D,,,Corpse Wax Cutter,18,10,,22,,Caelid - Bestial Sanctum
+Helphen's Steeple,Greatsword,494,494,100,D,E,B,,,,Ruinous Ghostflame,19,10,22,,,Mountaintops of the Giants - Tibia Mariner 
+Blasphemous Blade,Greatsword,487,487,100,C,C,,B,,,Taker's Flames,22,15,,21,,Mt Gelmir - Rykard (Boss)
+Inseparable Sword,Greatsword,480,480,100,D,D,,B,,,Sacred Blade,18,18,,20,,Deeproot Depths
+Sacred Relic Sword,Greatsword,475,475,110,D,B,,C,,,Wave of Gold,14,24,,22,,Elden Beast
+Golden Order Greatsword,Greatsword,462,462,100,E,D,,B,,,Establish Order,16,21,,28,,Mountaintops of the Giants - Cave of the Forlorn
+Dark Moon Greatsword ,Greatsword,440,440,100,D,D,B,,,,Moonlight Greatsword,16,11,38,,,Ranni questline
+Ordovis's Greatsword,Greatsword,431,431,100,A,E,,C,,,Ordovis's Vortex,25,13,,15,,Capital Outskirts - Auriza Hero's Grave
+Alabaster Lord's Sword ,Greatsword,406,406,100,B,D,D,,,,Alabaster Lords' Pull,16,12,18,,,Lake of Rot - Alabaster Lord
+Death's Poker,Greatsword,389,389,100,C,B,D,,,,Ghostflame Ignition,15,17,11,,,Caelid - Death rite bird
+Marais Executioner's Sword,Greatsword,379,379,100,B,E,,D,,,Eochaid's Dancing Blade,24,14,,,23,Altus Plateau - The Shaded Castle
+Sword of Milos,Greatsword,345,345,100,C,C,,,,Bleed (55),Shriek of Milos,15,19,,,,Dung Eater
+Banished Knight's Greatsword,Greatsword,321,534,100,B,B,C,C,B,,Ashes of war,17,9,,,,Stormveil Castle - Banished Knights
+Knight's Greatsword,Greatsword,319,530,100,B,B,C,C,B,,Ashes of war,16,12,,,,"Knights, multiple zones"
+Iron Greatsword,Greatsword,316,533,100,A,B,C,C,B,,Ashes of war,18,10,,,,Drops in multiple end game zones
+Claymore,Greatsword,312,518,100,B,B,C,C,B,,Ashes of war,16,13,,,,Weeping Peninsula - Castle Morne
+Lordsworn's Greatsword,Greatsword,307,510,110,B,B,C,C,B,,Ashes of war,16,10,,,,Limgrave - Gatefront Ruins
+Flamberge,Greatsword,293,486,100,B,A,B,C,B,Bleed (55),Ashes of war,15,14,,,,Caelid - Redmane Castle 
+Bastard Sword,Greatsword,292,518,100,A,B,C,C,B,,Ashes of war,16,10,,,,Weeping Peninsula - Merchant
+Gargoyle's Greatsword,Greatsword,283,502,100,A,B,B,B,B,,Ashes of war,18,10,,,,"Nokron, Eternal City -  Valiant Gargoyle"
+Forked Greatsword,Greatsword,282,468,100,B,B,B,C,B,Bleed (55),Ashes of war,14,16,,,,"Liurnia - Road's End Catacombs, imps"
+Dragon King's Cragblade,H.Thrusting Sword,369,369,100,D,B,,,,,Thundercloud Form,18,37,,,,Dragonlord Placidusax (Boss)
+Bloody Helice,H.Thrusting Sword,296,296,100,E,C,,,B,Bleed (55),Dynast's Finesse,16,19,,,17,Altus Plateau - Writheblood Ruins
+Godskin Stitcher,H.Thrusting Sword,284,470,100,B,B,B,B,B,,Ashes of war,14,17,,,,Volcano Manor - Godskin Noble
+Great Épée,H.Thrusting Sword,279,464,100,A,B,B,B,B,,Ashes of war,15,16,,,,Limgrave - Outside
+Gargoyle's Black Halberd,Halberd,554,554,100,C,D,,D,,,Spinning Slash,26,10,,22,,Caelid - Black Blade Kindred (Boss)
+Golden Halberd,Halberd,451,451,100,B,D,,D,,,Golden Vow,30,14,,12,,Limgrave - Tree sentinel
+Loretta's War Sickle,Halberd,442,442,100,C,C,C,,,,Loretta's Slash,20,15,20,,,"Miquella's Haligtree - Loretta, Knight of the Haligtree"
+Commander's Standard,Halberd,338,338,100,B,D,,,,,Rallying Standard,24,14,,,,Caelid - Commander O'Niel
+Dragon Halberd,Halberd,330,330,100,B,C,,,,,Spinning Slash,22,10,,,,Siofra River - Drop
+Guardian's Swordspear,Halberd,312,518,100,B,A,C,C,B,,Ashes of war,17,16,,,,Dropped by Erdtree Guardians
+Glaive,Halberd,296,490,100,A,B,B,B,B,,Ashes of war,18,15,,,,Dropped from Graveyard Skeletons
+Halberd,Halberd,282,468,100,A,B,B,B,A,,Ashes of war,14,12,,,,"Vagabond class, Limgrave - Merchant"
+Banished Knight's Halberd,Halberd,282,468,100,A,B,B,B,A,,Ashes of war,14,12,,,,Stormveil Castle - Banished knight drop
+Vulgar Militia Saw,Halberd,282,468,100,A,B,B,B,B,Bleed (55),Ashes of war,15,13,,,,Caelid - Beastial sanctum - Drop
+Gargoyle's Halberd,Halberd,275,486,100,.S,A,B,B,B,,Ashes of war,26,10,,,,Leyndell Royal Capital - Drop
+Lucerne,Halberd,272,452,100,A,A,B,B,B,,Ashes of war,15,12,,,,Liurnia - Outside
+Vulgar Militia Shotel,Halberd,272,452,100,A,A,B,B,B,,Ashes of war,14,16,,,,Caelid - Gaol Cave - Drop
+Nightrider Glaive,Halberd,270,478,100,.S,A,B,B,B,,Ashes of war,26,10,,,,Liurnia - Night's Cavalry
+Pest's Glaive,Halberd,270,448,100,A,A,B,B,A,,Ashes of war,13,13,,,,Dropped by Lesser Kindred of Rot (Pests)
+Ripple Crescent Halberd,Halberd,210,210,100,,,,,.S,,Spinning Slash,12,12,,,20,Liurnia - Academy Gate Town - Drop
+Marika's Hammer,Hammer,406,406,100,B,D,,C,,,Gold Breaker,20,12,,19,,Elden Beast (Boss)
+Scepter of the All-Knowing,Hammer,398,398,100,D,C,C,,,,Knowledge Above All,12,18,21,,,Leyndell - Sir Gideon Ofnir (Boss)
+Envoy's Horn,Hammer,386,386,100,C,C,,C,,,Oracular Bubble,10,12,,16,,Leyndell - Drop
+Nox Flowing Hammer,Hammer,298,298,100,B,D,,,,,Flowing Form,17,7,,,,Nokron - Outside
+Ringed Finger,Hammer,296,296,100,B,D,,,,,Claw Flick,17,7,,,,Mt. Gelmir - Gelmir Hero's Grave
+Mace,Hammer,283,428,100,A,B,B,B,B,,Ashes of war,12,7,,,,Roundtable hold
+Monk's Flamemace,Hammer,282,468,100,B,A,C,C,B,,Ashes of war,13,13,,,,Liurnia - Drop from monks
+Morning Star,Hammer,265,440,100,B,B,B,B,B,Bleed (50),Ashes of war,12,8,,,,Weeping Peninsula - Chest
+Hammer,Hammer,261,464,100,A,B,C,C,B,,Ashes of war,14,7,,,,Leyndell - Fortified Manor
+Stone Club,Hammer,257,456,100,A,B,B,C,B,,Ashes of war,16,8,,,,Liurnia - Drop
+Spiked Club,Hammer,256,424,100,A,B,B,B,A,Bleed (50),Ashes of war,12,7,,,,Dropped by large demi-humans
+Warpick,Hammer,242,400,100,B,B,B,C,B,,Ashes of war,11,9,,,,Dropped by Godrick Soldiers
+Curved Club,Hammer,239,424,100,A,B,B,C,B,,Ashes of war,11,7,,,,Liunrnia - Academy gate town - Drop
+Club,Hammer,230,382,100,A,A,B,B,B,,Ashes of war,10,,,,,"Wretch class, Limgrave - Merchant"
+Varré's Bouquet,Hammer,112,112,100,E,C,,,B,,Blood Tax,8,16,,,24,Mohgwyn Palace
+Meteoric Ore Blade,Katana,450,450,100,C,D,C,,,Bleed (50),Gravitas,15,14,18,,,Caelid - Caelid Waypoint Ruins
+Moonveil,Katana,391,391,100,E,B,B,,,Bleed (50),Transient Moonlight,12,18,23,,,Caelid - Gael Tunnel - Magma Wyrm
+Rivers of Blood,Katana,372,372,100,E,B,,,D,Bleed (66),Corpse Piler,12,18,,,20,Mountaintops of the giants - Church of Repose invader
+Serpentbone Blade,Katana,294,294,100,E,B,,,,Poison (66),Double Slash,11,22,,,,Volcano Manor - Quest
+Hand of Malenia,Katana,286,286,100,E,B,,,,Bleed (50),Waterfowl Dance,16,48,,,,"Elphael, Brace of the Haligtree"
+Dragonscale Blade,Katana,269,269,100,D,B,,,,,Ice Lightning Sword,12,20,,,,Underground - Lake of rot
+Uchigatana ,Katana,258,428,100,A,A,B,B,B,Bleed (45),Ashes of war,11,15,,,,Limgrave - Deathtouched Catacombs
+Nagakiba ,Katana,258,428,100,B,B,B,B,B,Bleed (45),Ashes of war,18,22,,,,Bloody Finger Hunter Yura quest or kill
+Halo Scythe,Reaper,475,475,100,D,C,,D,,Bleed (55),Miquella's Ring of Light,13,16,,15,,Caelid - Drops from Cleanrot Knights
+Winged Scythe,Reaper,467,467,100,D,C,,C,,Bleed (55),Angel's Wings,16,16,,24,,Weeping Peninsula - Tombsward Ruins
+Grave Scythe,Reaper,324,538,100,B,B,C,C,B,Bleed (55),Ashes of war,17,13,,,,Dropped from Gravekeeper Skeletons
+Scythe,Reaper,282,468,100,B,A,B,C,B,Bleed (55),Ashes of war,14,14,,,,Liurnia - Cliffbottom Catacombs
+Inquisitor's Girandole,Spear,410,410,100,C,C,,B,,Bleed (50),Charge Forth,18,15,,16,,Volcano Manor
+Cleanrot Spear,Spear,410,410,100,C,C,,D,,,Sacred Phalanx,16,16,,14,,Caelid
+Death Ritual Spear,Spear,398,398,110,D,B,D,,,,Spearcall Ritual,20,18,,,,Mountaintops of the Giants
+Bolt of Gransax,Spear,394,394,100,D,C,,,,,Ancient Lightning Spear,20,40,,,,"Leyndell, Royal Capital"
+Crystal Spear,Spear,349,349,100,D,B,D,,,,Impaling Thrust,10,16,16,,,Caelid
+Rotten Crystal Spear,Spear,329,329,100,D,B,D,,,Scarlet rot (55),Charge Forth,10,16,16,,,"Elphael, Brace of the Haligtree"
+Torchpole ,Spear,329,329,100,C,C,,,,,Charge Forth,14,15,,,,Stormveil Castle
+Clayman's Harpoon,Spear,321,469,100,A,B,B,B,B,,Ashes of war,12,10,12,,,Underground River areas - Drop
+Partisan ,Spear,277,460,100,B,B,C,C,B,,Ashes of war,15,12,,,,Limgrave
+Cross-Naginata,Spear,274,456,100,B,A,B,B,B,Bleed (50),Ashes of war,16,20,,,,Caelid - Gael Tunnel
+Spiked Spear,Spear,270,448,100,B,B,C,C,B,Bleed (50),Ashes of war,14,16,,,,Limgrave
+Pike ,Spear,258,428,100,B,B,B,C,B,,Ashes of war,20,14,,,,Stormveil Castle
+Iron Spear,Spear,256,424,100,B,B,C,C,B,,Ashes of war,13,11,,,,"Nokron, Eternal City"
+Spear ,Spear,256,424,100,B,B,C,C,B,,Ashes of war,12,15,,,,Limgrave - Patches
+Short Spear ,Spear,251,416,100,B,B,C,C,B,,Ashes of war,10,10,,,,Roundtable hold
+Celebrant's Rib-Rake,Spear,244,404,100,B,A,C,C,B,,Ashes of war,8,14,,,,Altus Plateau
+Sword of Night and Flame,Straight Sword,487,487,100,D,D,B,B,,,Night-and-Flame Stance,12,12,24,24,,Liurnia - Caria Manor
+Carian Knight's Sword,Straight Sword,430,430,100,C,D,D,,,,Carian Grandeur,10,10,18,,,Liurnia - Wagon in the west
+Crystal Sword,Straight Sword,425,425,100,C,D,D,,,,Spinning Slash,13,10,15,,,Liurnia - Village of the Albinaurics
+Lazuli Glintstone Sword,Straight Sword,423,423,100,C,D,D,,,,Glintstone Pebble,8,9,13,,,Liurnia - drop from Lazuli Sorcerers in Academy or Caria Manor
+Miquellan Knight's Sword,Straight Sword,423,423,100,D,D,,D,,,Sacred Blade,11,11,,16,,"Elphael, Brace of the Haligtree - Legacy Dungeon "
+Golden Epitaph,Straight Sword,416,416,100,D,D,,C,,,Last Rites (Group buff),12,10,,14,,Royal capital -  Auriza Hero's Grave
+Rotten Crystal Sword,Straight Sword,410,410,100,C,D,D,,,Scarlet Rot (50),Spinning Slash,13,10,15,,,"Elphael, Brace of the Haligtree - Legacy Dungeon "
+Regalia of Eochaid,Straight Sword,357,357,100,D,C,,,C,,Eochaid's Dancing Blade,12,18,,,15,Caelid - Past Gaol cave
+Sword of St Trina ,Straight Sword,340,340,100,D,C,D,,,Sleep (66),Mists of Slumber,10,12,14,,,Caelid - Forsaken Ruins
+Lordsworn's Straight Sword,Straight Sword,258,428,110,B,B,C,C,B,,Ashes of war,10,10,,,,Dropped by Noble Soldier in Gatefront Ruins
+Ornamental Straight Sword,Straight Sword,247,247,110,D,B,,,,,Golden Tempering,10,14,,,,Liurnia -> Chapel of Anticipation
+Broadsword ,Straight Sword,246,436,100,A,B,C,C,B,,Ashes of war,10,10,,,,Purchased from the Nomadic Merchant in West Limgrave
+Longsword ,Straight Sword,246,408,100,B,B,B,B,B,,Ashes of war,10,10,,,,Purchased from Twin Maiden Husks at the Roundtable Hold
+Weathered Straight Sword,Straight Sword,230,382,100,B,B,C,C,B,,Ashes of war,7,10,,,,Limgrave - Dropped by commoner
+Short Sword,Straight Sword,227,378,100,B,A,B,B,B,,Ashes of war,8,10,,,,Purchased from the Nomadic Merchant in North Limgrave
+Noble's Slender Sword,Straight Sword,225,374,110,A,A,B,B,B,,Ashes of war,8,11,,,,Wandering nobles in Limgrave and Liurnia Academy
+Warhawk's Talon,Straight Sword,225,374,100,B,A,B,B,B,,Ashes of war,10,16,,,,Stormveil castle - Drop from eagles
+Cane Sword,Straight Sword,216,358,100,B,A,C,C,B,,Ashes of war,8,11,,,,Royal Capital - Outdoors
+Coded Sword,Straight Sword,208,208,100,,,,A,,,Unblockable Blade,,,,20,,Royal Capital - Outdoors
+Cleanrot Knight's Sword,Thrusting Sword,244,404,100,B,B,C,C,B,,Ashes of war,13,11,,,,Caelid - Drop
+Frozen Needle,Thrusting Sword,242,242,100,D,B,,,,Frostbite (60),Impaling Thrust,11,18,,,,Liurnia - Kingsrealm Ruins
+Estoc,Thrusting Sword,239,396,100,B,B,C,C,B,,Ashes of war,11,13,,,,Liurnia - Nomadic Merchant
+Noble's Estoc ,Thrusting Sword,232,386,100,B,B,C,C,B,,Ashes of war,9,10,,,,Limgrave - Drop
+Antspur Rapier,Thrusting Sword,220,366,100,B,B,B,B,B,Scarlet rot (55),Ashes of war,10,20,,,,Altus Plateau - The Shaded Castle
+Rapier ,Thrusting Sword,216,358,130,B,A,B,B,B,,Ashes of war,7,12,,,,Roundtable hold
+Rogier's Rapier,Thrusting Sword,209,346,110,A,A,B,B,B,,Ashes of war,8,17,,,,Stormveil Castle - kill Godrick
+Steel-Wire Torch,Torch,416,416,100,D,B,,,,,Firebreather,10,8,,,,Wheeping Peninsula - Castle Morne
+Beast-Repellent Torch,Torch,396,396,100,B,D,,,,Repells beasts,Torch Attack,12,8,,,,Caelid - Merchant
+Sentry's Torch,Torch,382,382,100,D,E,,C,,Reveals invisible,Torch Attack,15,8,,15,,Leyndell - Merchant
+Torch,Torch,369,369,100,C,D,,,,,Torch Attack,5,5,,,,Limgrave - Merchant
+St. Trina's Torch,Torch,346,346,100,D,D,,C,,Sleep (72),Fires of Slumber,10,10,,14,,Mountaintops of the Giants - Consecrated Snowfield
+Ghostflame Torch,Torch,342,342,100,D,D,C,,,Frostbite (65),Torch Attack,10,10,14,,,Nokron
+Gargoyle's Black Blades,Twinblade,435,435,100,B,E,,D,,,Spinning Slash,18,15,,22,,Forbidden Lands - Black Blade Kindred
+Eleonora's Poleblade,Twinblade,352,352,100,E,C,,,D,Bleed (55),Bloodblade Dance,12,21,,,19,Altus Plateau - Second Church of Marika
+Twinned Knight Swords,Twinblade,274,456,100,B,B,C,C,B,,Ashes of war,16,18,,,,Altus Plateau - East Windmill Pasture
+Godskin Peeler,Twinblade,272,452,100,B,A,C,C,B,,Ashes of war,17,22,,,,Altus Plateau - Windmill Village
+Twinblade,Twinblade,267,444,100,B,B,C,C,B,,Ashes of war,10,18,,,,Limgrave - Dragon-Burnt Ruins
+Gargoyle's Twinblade,Twinblade,259,460,100,A,B,C,C,B,,Ashes of war,18,15,,,,"Nokron, Eternal City - Valiant Gargoyle"
+Envoy's Long Horn,Warhammer,485,485,100,C,D,,B,,,Bubble Shower,23,11,,18,,Leyndell - East Capital Rampart
+Cranial Vessel Candlestand,Warhammer,480,480,100,B,D,,B,,,Surge of Faith,26,8,,22,,Mountaintops of the Giants - Giant-Conquering Hero's Grave
+Beastclaw Greathammer,Warhammer,467,467,100,C,C,,D,,,Regal Beastclaw,20,10,,18,,Gurranq - 7th Deathroot
+Devourer's Scepter,Warhammer,431,431,100,C,C,,C,,,Devourer of Worlds,24,20,,25,,Limgrave/Crumbling Farum Azula -  Kill Bernahl
+Curved Great Club,Warhammer,329,546,100,B,B,C,C,B,,Ashes of war,24,10,,,,Liurnia - Drop
+Celebrant's Skull,Warhammer,312,518,100,B,B,C,C,B,,Ashes of war,18,12,,,,Altus Plateau - Outdoors
+Pickaxe ,Warhammer,305,542,100,A,B,C,C,B,,Ashes of war,22,10,,,,Drop from Miners
+Great Stars ,Warhammer,305,506,100,A,B,B,C,B,Bleed (55),Ashes of war,22,12,,,,Altus Plateau - Wagon
+Greathorn Hammer ,Warhammer,303,502,100,A,B,B,B,B,,Ashes of war,22,10,,,,Siofra River - drop
+Great Mace,Warhammer,283,502,100,A,B,B,C,B,,Ashes of war,28,,,,,Altus Plateau - Grand lift of Dectus
+Battle Hammer,Warhammer,279,494,100,A,B,B,B,B,,Ashes of war,26,8,,,,Leyndell - drop
+Large Club,Warhammer,279,494,100,A,B,C,C,B,,Ashes of war,22,,,,,Limgrave - Forlorn Hound Evergaol
+Rotten Battle Hammer,Warhammer,268,474,100,A,B,B,B,A,Scarlet rot (65),Ashes of war,26,8,,,,Mountaintops of Giants - Consecrated Snowfield
+Brick Hammer,Warhammer,259,460,100,.S,A,B,B,A,,Ashes of war,31,,,,,Stormveil Castle
+Magma Whip Candlestic,Whip,352,352,100,D,B,,C,,,Sea of Magma,8,16,,18,,Volcanor manor - Quest reward
+Giant's Red Braid,Whip,329,329,100,B,D,,B,,,Flame Dance,18,12,,21,,Fire Giant (Boss)
+Hoslow's Petal Whip,Whip,246,408,100,E,D,,,B,Bleed (55),Ashes of war,10,20,,,,Volcanor manor - Drop during quest
+Thorned Whip,Whip,227,378,100,B,A,C,C,B,Bleed (50),Ashes of war,8,16,,,,Mountaintops of the Giants - Zamor Ruins
+Urumi,Whip,225,374,100,A,.S,B,C,B,,Ashes of war,10,19,,,,Liurnia - Caria Manor
+Whip,Whip,225,374,100,B,B,C,C,B,,Ashes of war,8,14,,,,Wheeping Peninsula - Castle Morne
