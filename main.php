@@ -116,6 +116,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
         // Mostrar el resultat
         if ($arma_recomanada) {
             echo "La millor arma amb aquestes estadístiques és: " . $arma_recomanada["nom"] . ".\n";
+            echo "Dany total: " . $max_puntuacio
         } else {
             header('Content-Type: text/plain');
             echo "No s'ha trobat una arma adequada.\n";
