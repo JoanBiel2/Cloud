@@ -18,11 +18,11 @@ if ($fitxer !== false) {
     while (($fila = fgetcsv($fitxer)) !== false) {
         $armes[] = [
             "nom" => $fila[0],
-            "frz" => intval($fila[12]),
-            "dx" => intval($fila[13]),
-            "int" => intval($fila[14]),
-            "fe" => intval($fila[15]),
-            "arc" => intval($fila[16]),
+            "frz" => intval(trim($fila[12]) ?: 0),
+            "dx" => intval(trim($fila[13]) ?: 0),
+            "int" => intval(trim($fila[14]) ?: 0),
+            "fe" => intval(trim($fila[15]) ?: 0),
+            "arc" => intval(trim($fila[16]) ?: 0),
             "escfrz" => $fila[5],
             "escdx" => $fila[6],
             "escint" => $fila[7],
@@ -80,7 +80,8 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
             ];
 
             foreach ($atributs as $key => $valor) {
-                $escala = $arma[$escalats[$key]];
+              $escala = trim($escala) ?: ""; // Vacíos tratados como cadena vacía
+
 
                 if ($valor <= 50) {
                     $puntuacio += match ($escala) {
@@ -113,7 +114,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
 
         // Mostrar el resultat
         if ($arma_recomanada) {
-            echo "La millor arma per aquestes estadístiques és: " . $arma_recomanada["nom"] . ".\n";
+            echo "La millor arma és: " . $arma_recomanada["nom"] . ".\n";
         } else {
             header('Content-Type: text/plain');
             echo "No s'ha trobat una arma adequada.\n";
