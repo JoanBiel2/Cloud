@@ -11,7 +11,7 @@
 
 // Llegir les armes des d'un fitxer CSV
 $armes = [];
-$fitxer = fopen("armes.csv", "r");
+$fitxer = fopen("list.csv", "r");
 
 if ($fitxer !== false) {
     // Saltar l'encapçalament
