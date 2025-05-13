@@ -3,7 +3,7 @@ header("Content-Type: application/json");
 
 $response = array(
     "status" => "success",
-    "message" => "Hola desde el Web Service en Azure"
+    "message" => "AAAAAAAAAAA"
 );
 
 echo json_encode($response);
