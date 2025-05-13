@@ -9,23 +9,31 @@
 //}
 
 
-$armes_json = '[
-    {"nom": "Misericorde", "frz": 7, "dx": 12, "int": 0, "escfrz": "E", "escdx": "C", "escint": "E", "mal": 92},
-    {"nom": "Broadsword", "frz": 10, "dx": 10, "int": 0, "escfrz": "D", "escdx": "E", "escint": "E", "mal": 117},
-    {"nom": "Iron Greatsword", "frz": 18, "dx": 10, "int": 0, "escfrz": "C", "escdx": "E", "escint":"E", "mal": 149},
-    {"nom": "Greatsword", "frz": 31, "dx": 12, "int": 0, "escfrz": "C", "escdx": "E", "escint":"E", "mal": 164},
-    {"nom": "Cleanrot Knights Sword", "frz": 11, "dx": 13, "int": 17, "escfrz": "D", "escdx": "D", "escint":"C", "mal": 109},
-    {"nom": "Sword Lance", "frz": 21, "dx": 11, "int": 0, "escfrz": "C", "escdx": "E", "escint":"E", "mal": 132},
-    {"nom": "Wing of Astel", "frz": 7, "dx": 17, "int": 20, "escfrz": "E", "escdx": "D", "escint":"D", "mal": 143},
-    {"nom": "Bloodhounds Fang", "frz": 18, "dx": 17, "int": 0, "escfrz": "D", "escdx": "C", "escint":"E", "mal": 141},
-    {"nom": "Moonveil", "frz": 12, "dx": 18, "int": 23, "escfrz": "E", "escdx": "D", "escint":"C", "mal": 160},
-    {"nom": "Twinned Knight Swords", "frz": 16, "dx": 18, "int": 0, "escfrz": "D", "escdx": "E", "escint":"E", "mal": 122},
-    {"nom": "Warped Axe", "frz": 24, "dx": 8, "int": 0, "escfrz": "C", "escdx": "E", "escint":"E", "mal": 124},
-    {"nom": "Executioners Greataxe", "frz": 34, "dx": 8, "int": 0, "escfrz": "C", "escdx": "E", "escint":"E", "mal": 150}
-]';
+// Llegir les armes des d'un fitxer CSV
+$armes = [];
+$fitxer = fopen("armes.csv", "r");
 
-// Convertir JSON a array
-$armes = json_decode($armes_json, true);
+if ($fitxer !== false) {
+    // Saltar l'encapçalament
+    fgetcsv($fitxer);
+
+    while (($fila = fgetcsv($fitxer)) !== false) {
+        $armes[] = [
+            "nom" => $fila[0],
+            "frz" => intval($fila[12]),
+            "dx" => intval($fila[13]),
+            "int" => intval($fila[14]),
+            "escfrz" => $fila[5],
+            "escdx" => $fila[6],
+            "escint" => $fila[7],
+            "mal" => intval($fila[2])
+        ];
+    }
+    fclose($fitxer);
+} else {
+    die("No s'ha pogut llegir el fitxer d'armes.");
+}
+
 
 // Verificar si s'han enviat els paràmetres necessaris
 if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int'])) {
