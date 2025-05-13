@@ -80,7 +80,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
             ];
 
             foreach ($atributs as $key => $valor) {
-              $escala = trim($arma[$escalats[$key]]) ?: ""; // Vacíos tratados como cadena vacía
+              $escala = isset($arma[$escalats[$key]]) ? strtoupper(trim($arma[$escalats[$key]])) : ""; // Vacíos tratados como cadena vacía
 
 
                 if ($valor <= 50) {
@@ -103,6 +103,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
                         "S" => 50,
                         default => 0
                     };
+                    echo $escala;
                 }
             }
 
