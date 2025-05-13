@@ -103,7 +103,6 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
                         "S" => 50,
                         default => 0
                     };
-                    echo $escala;
                 }
             }
 
