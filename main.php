@@ -3,7 +3,7 @@
 
 //{
 //"name": "Recomenador d'armes Elden Ring",
-//"url": "http://localhost/main.php?frz=15&dx=12&int=15",
+//"url": "https://eldenringcalculardanyo-gahqhke4bff9a3f6.westeurope-01.azurewebsites.net/main.php?frz=0&dx=0&int=0&fe=99&arc=0",
 //"description": "Recomana l'arma que mes mal fagui amb les estadistiques que te el jugador. L'usuari ha d'inserir la seva Força (frz), Destresa (dx), i Intel·ligencia(int) per que la func>
 //"authors": ["Arnau Barba", "Joan Biel"]
 //}
@@ -80,7 +80,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
             ];
 
             foreach ($atributs as $key => $valor) {
-              $escala = trim($escala) ?: ""; // Vacíos tratados como cadena vacía
+              $escala = trim($arma[$escalats[$key]]) ?: ""; // Vacíos tratados como cadena vacía
 
 
                 if ($valor <= 50) {
@@ -114,7 +114,7 @@ if (isset($_GET['frz']) && isset($_GET['dx']) && isset($_GET['int']) && isset($_
 
         // Mostrar el resultat
         if ($arma_recomanada) {
-            echo "La millor arma és: " . $arma_recomanada["nom"] . ".\n";
+            echo "La millor arma amb aquestes estadístiques és: " . $arma_recomanada["nom"] . ".\n";
         } else {
             header('Content-Type: text/plain');
             echo "No s'ha trobat una arma adequada.\n";
